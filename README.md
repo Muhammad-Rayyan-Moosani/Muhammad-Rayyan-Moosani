@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👨‍💻 Rayyan Moosani
+# 👨‍💻 Muhammad Rayyan Moosani
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Solutions;Innovating+with+Code+%26+Creativity" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="200" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Rayyan-Moosani&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Muhammad-Rayyan-Moosani)
@@ -38,88 +38,89 @@ me = RayyanMoosani()
 me.say_hi()
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,flask,react,nodejs,nextjs" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cs,html,css" alt="Languages" />
 
-### 🤖 AI & Data Science
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI Tools" />
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+### ⚛️ Frameworks & Libraries
 
-### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,unity,selenium" alt="Frameworks" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,aws" alt="Databases" />
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
 
-### 🔧 Tools & Technologies
+### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,selenium,vscode,linux,bash" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,supabase,mongodb,postgresql" alt="Cloud & DevOps" />
 
-</div>
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge&logo=auth0&logoColor=white)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Rayyan-Moosani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Rayyan-Moosani&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Rayyan-Moosani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Rayyan-Moosani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Rayyan-Moosani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Muhammad-Rayyan-Moosani/TrackerFlow-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Rayyan-Moosani&repo=TrackerFlow-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+### 🤖 TrackerFlow AI
+Chrome extension that generates custom AI-powered trackers for tasks, habits, expenses, and studies using Flask and OpenAI.
 
-<a href="https://github.com/Muhammad-Rayyan-Moosani/CrickAI-Vision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Rayyan-Moosani&repo=CrickAI-Vision&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+**Tech:** Python, Flask, OpenAI API, JavaScript
 
-<a href="https://github.com/Muhammad-Rayyan-Moosani/TestGuard-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Rayyan-Moosani&repo=TestGuard-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/TrackerFlow-AI)
 
-<a href="https://github.com/Muhammad-Rayyan-Moosani/Personal-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Rayyan-Moosani&repo=Personal-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+</td>
+<td width="50%">
 
-</div>
+### 🏏 CrickAI Vision
+AI-powered cricket analytics and prediction system leveraging Google Gemini for advanced match insights.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+**Tech:** Python, Google Gemini, Machine Learning
+
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/CrickAI-Vision)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧪 TestGuard Platform
+Automated UI testing engine using Selenium and WebDriverIO for comprehensive validation and quality assurance.
+
+**Tech:** Selenium, WebDriverIO, JavaScript
+
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/TestGuard-Platform)
+
+</td>
+<td width="50%">
+
+### 🌐 Personal Website
+Modern portfolio website showcasing projects and skills with responsive design.
+
+**Tech:** JavaScript, HTML, CSS
+
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/Personal-Website)
+[![Live](https://img.shields.io/badge/Live_Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rayyanmoosani.com/)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -152,22 +153,15 @@ mindmap
 
 ---
 
-## 🔥 Current Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Rayyan-Moosani&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=FFFFFF&dates=8B8B8B" alt="Contribution Streak" />
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-moosani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayyan.moosani@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rayyanmoosani.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-moosani/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrayyanm411@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/RayyanMoosani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayyan_moosani)
 
 </div>
 
@@ -192,9 +186,7 @@ mindmap
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-  ### ⭐ From [Muhammad-Rayyan-Moosani](https://github.com/Muhammad-Rayyan-Moosani)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Rayyan-Moosani&color=00D9FF&style=flat-square&label=Thanks+for+visiting!" />
 </div>
