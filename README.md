@@ -93,29 +93,29 @@ Interactive gaming platform featuring multiple games with modern UI/UX design an
 
 **Tech:** JavaScript, HTML, CSS, Game Development
 
-[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/games.random)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/Games.Random)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎙️ Autonomous Voice Agent
+### 🎙️ Autonomous Voice Web Agent
 AI-powered voice assistant with natural language processing capabilities for intelligent voice interactions.
 
 **Tech:** Python, Whisper, NLP, Voice Recognition
 
-[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/autonomous-voice-agent)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/Autonomous_Voice_Web_Agent)
 
 </td>
 <td width="50%">
 
-### 🔊 Awaaz
+### 🔊 Anr Awaaz
 Advanced voice processing application with speech-to-text and text-to-speech capabilities for seamless audio communication.
 
 **Tech:** Python, Audio Processing, AI APIs
 
-[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/awaaz)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/Anr-Awaaz)
 
 </td>
 </tr>
