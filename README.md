@@ -88,35 +88,46 @@ Chrome extension that generates custom AI-powered trackers for tasks, habits, ex
 </td>
 <td width="50%">
 
-### 🏏 CrickAI Vision
-AI-powered cricket analytics and prediction system leveraging Google Gemini for advanced match insights.
+### 🎮 games.random
+Interactive gaming platform featuring multiple games with modern UI/UX design and real-time gameplay mechanics.
 
-**Tech:** Python, Google Gemini, Machine Learning
+**Tech:** JavaScript, HTML, CSS, Game Development
 
-[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/CrickAI-Vision)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/games.random)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧪 TestGuard Platform
-Automated UI testing engine using Selenium and WebDriverIO for comprehensive validation and quality assurance.
+### 🎙️ Autonomous Voice Agent
+AI-powered voice assistant with natural language processing capabilities for intelligent voice interactions.
 
-**Tech:** Selenium, WebDriverIO, JavaScript
+**Tech:** Python, Whisper, NLP, Voice Recognition
 
-[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/TestGuard-Platform)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/autonomous-voice-agent)
 
 </td>
 <td width="50%">
 
-### 🌐 Personal Website
-Modern portfolio website showcasing projects and skills with responsive design.
+### 🔊 Awaaz
+Advanced voice processing application with speech-to-text and text-to-speech capabilities for seamless audio communication.
 
-**Tech:** JavaScript, HTML, CSS
+**Tech:** Python, Audio Processing, AI APIs
 
-[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/Personal-Website)
-[![Live](https://img.shields.io/badge/Live_Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rayyanmoosani.com/)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/awaaz)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 📱 Sessions Booking Bot
+Automated bot for booking sessions with smart scheduling and notification features.
+
+**Tech:** Python, Automation, Web Scraping
+
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rayyan-Moosani/Sessions-Booking-Bot)
 
 </td>
 </tr>
