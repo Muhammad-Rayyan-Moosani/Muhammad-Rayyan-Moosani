@@ -20,19 +20,21 @@
 class RayyanMoosani:
     def __init__(self):
         self.username = "Muhammad-Rayyan-Moosani"
-        self.role = "AI Engineer & Full Stack Developer"
-        self.location = "🌍 Building the Future"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development",
-            "Automation",
-            "Cricket Analytics"
+        self.role = "AI Systems Engineer & Full Stack Developer"
+        self.location = "Waterloo, ON, Canada"
+        
+        self.focus = [
+            "AI Agents & LLM Systems",
+            "Full-Stack Applications",
+            "Real-Time & Low-Latency Pipelines",
+            "Scalable System Design"
         ]
-        self.current_focus = "Building AI-powered solutions"
+        
+        self.current_work = "Building production-ready AI systems that connect language, voice, and data to real actions"
+        self.philosophy = "AI is only useful when it works reliably in the real world"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print("I build systems, not demos. If it doesn’t run in production, it doesn’t count.")
 
 me = RayyanMoosani()
 me.say_hi()
